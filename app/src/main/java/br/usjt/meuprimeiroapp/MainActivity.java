@@ -1,3 +1,6 @@
+/**
+ * Created by Guilherme Varela, RA: 81613746.
+ */
 package br.usjt.meuprimeiroapp;
 
 import android.content.Intent;
